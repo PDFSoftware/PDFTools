@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='pdftools',
-    version='1.0.8',
+    version='1.0.0',
     description='PDFTools, a basic library for PDF softwares',
     author='Scihacker',
     author_email='sjtuzlp@gmail.com',
