@@ -1,0 +1,7 @@
+pytest
+PyMuPDF
+svgwrite
+pyautogui
+keyboard
+pdfplumber
+pywin32
